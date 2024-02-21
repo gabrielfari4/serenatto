@@ -1,0 +1,14 @@
+body {
+  --bege: #E6E0D6;
+  --marrom-escuro: #816D4F;
+  --marrom-claro: #B29463;
+  font-family: 'Barlow', sans-serif;
+}
+
+input[type=checkbox] {
+  color: var(--marrom-claro);
+}
+
+input[type=checkbox]:checked {
+  color: var(--marrom-claro);
+}
