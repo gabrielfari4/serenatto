@@ -52,9 +52,11 @@ input[type="checkbox"]:focus {
 
 .link-detalhes {
   background-color: var(--marrom-claro);
+  color: black;
   &:hover {
     font-weight: bold;
     border: 1px solid var(--marrom-claro);
+    color: black;
   }
 }
 
