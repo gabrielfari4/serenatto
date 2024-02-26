@@ -111,6 +111,10 @@ footer {
   .accordion-button:not(.collapsed) {
     color: white;
   }
+
+  .link-detalhes:hover {
+    color: white;
+  }
 }
 
 .accordion {
